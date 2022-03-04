@@ -1,8 +1,7 @@
 target/*
 .settings/*
 .classpath
-.project
-.factorypath
+.project.factorypath
 .attach_pid*
 .idea
 *.iml
@@ -15,3 +14,4 @@ target/*
 !.vscode/extensions.json
 _site/
 .vagrant
+data.d
